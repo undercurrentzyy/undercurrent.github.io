@@ -47,9 +47,8 @@ nav ul li a:hover {
 
 .intro {
   top: 10;
-  min-height: 10vh;
+  min-height: 20vh;
   padding-top: 40vh;
-  padding-bottom: 40vh;
   line-height: 100vh;
   width: 100%;
   height:100%;
@@ -59,7 +58,7 @@ nav ul li a:hover {
   color: floralwhite;
   opacity: .8;
   margin-top: 10px;
-  margin-bottom: 60px;
+  padding-bottom: 10px;
   height:600px;
   font-size: 100px;
 }
